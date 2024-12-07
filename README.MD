@@ -1,4 +1,4 @@
-# Vifez Command API
+# Vifez API
 This is a custom api which is designed to make developing minecraft plugins cleaner and easier, While developing this API I made sure that it easy to add stuff to it and use it!
 
 # Features:
@@ -14,9 +14,9 @@ This is a custom api which is designed to make developing minecraft plugins clea
 - Add the following dependency to your `pom.xml`
 
 ```xml
-<dependency>
-    <groupId>lol.vifez.command</groupId>
-    <artifactId>CommandAPI</artifactId>
-    <version>1.0-SNAPSHOT</version>
-</dependency>
+      <dependency>
+          <groupId>lol.vifez.api</groupId>
+          <artifactId>API</artifactId>
+          <version>1.0-SNAPSHOT</version>
+      </dependency>
 ```
