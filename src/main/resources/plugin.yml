@@ -1,0 +1,6 @@
+name: VifezAPI
+version: '1.0'
+main: lol.vifez.api.MainPlugin
+authors: [vifez]
+description: A Custom API developed by Vifez
+website: https://discord.gg/stkWZEKVd5
