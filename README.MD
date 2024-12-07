@@ -1,5 +1,5 @@
 # Vifez Command API
-This is a small base of how a Command API would work, It contains an example command with an example of how registering commands would work in the main class, and obviously the code for the api
+This is a custom api which is designed to make developing minecraft plugins cleaner and easier, While developing this API I made sure that it easy to add stuff to it and use it!
 
 # Features:
 - Examples
