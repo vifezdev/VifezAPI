@@ -4,14 +4,14 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>lol.vifez.command</groupId>
-  <artifactId>CommandAPI</artifactId>
+  <groupId>lol.vifez.api</groupId>
+  <artifactId>API</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>CommandAPI</name>
+  <name>API</name>
 
-    <description>a cool custom command api base for begginers</description>
+    <description>a cool custom api</description>
     <properties>
     <java.version>1.8</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
